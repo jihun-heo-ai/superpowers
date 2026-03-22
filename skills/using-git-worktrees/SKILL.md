@@ -37,7 +37,7 @@ grep -i "worktree.*director" CLAUDE.md 2>/dev/null
 
 ### 3. Ask User
 
-If no directory exists and no CLAUDE.md preference:
+If no directory exists and no CLAUDE.md preference (on platforms with a user interaction tool like `askQuestions`, use it to present these options):
 
 ```
 No worktree directory found. Where should I create worktrees?

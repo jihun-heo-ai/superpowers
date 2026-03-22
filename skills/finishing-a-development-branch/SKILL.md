@@ -48,7 +48,7 @@ Or ask: "This branch split from main - is that correct?"
 
 ### Step 3: Present Options
 
-Present exactly these 4 options:
+Present exactly these 4 options (on platforms with a user interaction tool like `askQuestions`, use it to present these options):
 
 ```
 Implementation complete. What would you like to do?
