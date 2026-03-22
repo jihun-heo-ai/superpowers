@@ -9,7 +9,7 @@ Skills use Claude Code tool names. When you encounter these in a skill, use your
 | `Edit` (file editing) | `editFile` |
 | `Bash` (run commands) | `runInTerminal` |
 | `Grep` (search file content) | `getFileTextSearch` |
-| `Glob` (search files by name) | `getFileTextSearch` |
+| `Glob` (search files by name) | `getWorkspaceFiles` |
 | `TodoWrite` (task tracking) | No equivalent — track tasks manually |
 | `Skill` tool (invoke a skill) | Skills load natively — just follow the instructions |
 | `Task` tool (dispatch subagent) | No equivalent — GitHub Copilot does not support subagents |
@@ -26,8 +26,8 @@ When a skill instructs you to ask the user a question, present options, or wait 
 |------------|----------------------|
 | "Which option?" (after presenting choices) | The full question with numbered options |
 | "Which approach?" (after presenting alternatives) | The question with each approach described |
-| "Which would you prefer?" (after presenting options) | The question with available choices |
 | "Please review it and let me know" | A request to review with clear next-step options |
+| "Type 'discard' to confirm" (confirmation required) | A confirmation prompt describing the consequences |
 
 ## No subagent support
 
