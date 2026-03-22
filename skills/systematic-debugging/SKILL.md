@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+description: "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes. 한글 트리거: 체계적 디버깅, 버그 수정, 버그 찾기, 오류 해결, 테스트 실패, 디버깅, 문제 해결"
 ---
 
 # Systematic Debugging

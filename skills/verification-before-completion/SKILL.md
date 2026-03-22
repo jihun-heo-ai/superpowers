@@ -1,6 +1,6 @@
 ---
 name: verification-before-completion
-description: Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always
+description: "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always. 한글 트리거: 완료 전 검증, 작업 검증, 완료 확인, 테스트 확인, 커밋 전 확인, 결과 검증"
 ---
 
 # Verification Before Completion

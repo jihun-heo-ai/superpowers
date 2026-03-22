@@ -1,6 +1,6 @@
 ---
 name: writing-skills
-description: Use when creating new skills, editing existing skills, or verifying skills work before deployment
+description: "Use when creating new skills, editing existing skills, or verifying skills work before deployment. 한글 트리거: 스킬 작성, 스킬 만들기, 스킬 편집, 새 스킬 생성, 스킬 검증"
 ---
 
 # Writing Skills

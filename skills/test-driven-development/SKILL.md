@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: Use when implementing any feature or bugfix, before writing implementation code
+description: "Use when implementing any feature or bugfix, before writing implementation code. 한글 트리거: 테스트 주도 개발, TDD, 테스트 먼저, 테스트 작성, 기능 구현, 버그 수정 구현"
 ---
 
 # Test-Driven Development (TDD)

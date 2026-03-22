@@ -1,6 +1,6 @@
 ---
 name: using-superpowers
-description: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions
+description: "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions. 한글 트리거: 슈퍼파워 사용, 스킬 사용법, 스킬 시스템, 대화 시작, 스킬 활성화"
 ---
 
 <SUBAGENT-STOP>

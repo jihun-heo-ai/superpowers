@@ -1,6 +1,6 @@
 ---
 name: dispatching-parallel-agents
-description: Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+description: "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies. 한글 트리거: 병렬 에이전트, 동시 작업, 병렬 처리, 독립 작업 분배, 동시에 여러 작업"
 ---
 
 # Dispatching Parallel Agents
