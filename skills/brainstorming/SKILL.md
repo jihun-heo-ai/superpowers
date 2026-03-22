@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation. 한글 트리거: 브레인스토밍, 아이디어 구상, 기능 설계, 기능 만들기, 새 기능, 설계 논의, 요구사항 분석"
 ---
 
 # Brainstorming Ideas Into Designs

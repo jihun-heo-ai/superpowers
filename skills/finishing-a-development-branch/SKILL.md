@@ -1,6 +1,6 @@
 ---
 name: finishing-a-development-branch
-description: Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup
+description: "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup. 한글 트리거: 개발 브랜치 마무리, 브랜치 완료, 작업 완료, 머지, PR 생성, 병합 준비"
 ---
 
 # Finishing a Development Branch

@@ -1,6 +1,6 @@
 ---
 name: requesting-code-review
-description: Use when completing tasks, implementing major features, or before merging to verify work meets requirements
+description: "Use when completing tasks, implementing major features, or before merging to verify work meets requirements. 한글 트리거: 코드 리뷰 요청, 리뷰 요청, 코드 검토 요청, 리뷰해줘, 코드 확인"
 ---
 
 # Requesting Code Review

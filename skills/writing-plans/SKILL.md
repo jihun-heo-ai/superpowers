@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: Use when you have a spec or requirements for a multi-step task, before touching code
+description: "Use when you have a spec or requirements for a multi-step task, before touching code. 한글 트리거: 계획 작성, 구현 계획, 플랜 작성, 작업 계획, 구현 설계, 단계별 계획"
 ---
 
 # Writing Plans

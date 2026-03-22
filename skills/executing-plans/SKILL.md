@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+description: "Use when you have a written implementation plan to execute in a separate session with review checkpoints. 한글 트리거: 계획 실행, 구현 계획 실행, 플랜 실행, 작업 실행, 구현 시작"
 ---
 
 # Executing Plans

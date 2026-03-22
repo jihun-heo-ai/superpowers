@@ -1,6 +1,6 @@
 ---
 name: receiving-code-review
-description: Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation
+description: "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation. 한글 트리거: 코드 리뷰 받기, 리뷰 피드백 처리, 리뷰 의견 반영, 코드 리뷰 대응"
 ---
 
 # Code Review Reception

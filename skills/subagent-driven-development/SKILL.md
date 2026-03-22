@@ -1,6 +1,6 @@
 ---
 name: subagent-driven-development
-description: Use when executing implementation plans with independent tasks in the current session
+description: "Use when executing implementation plans with independent tasks in the current session. 한글 트리거: 서브에이전트 개발, 에이전트 기반 개발, 하위 에이전트, 작업 위임, 에이전트 분배 개발"
 ---
 
 # Subagent-Driven Development
