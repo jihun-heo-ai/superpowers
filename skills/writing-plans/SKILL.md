@@ -126,7 +126,7 @@ After writing the complete plan:
 
 ## Execution Handoff
 
-After saving the plan, offer execution choice:
+After saving the plan, offer execution choice (on platforms with a user interaction tool like `askQuestions`, use it to present these options):
 
 **"Plan complete and saved to `docs/superpowers/plans/<filename>.md`. Two execution options:**
 

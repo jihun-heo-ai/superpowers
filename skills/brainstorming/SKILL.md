@@ -124,7 +124,7 @@ After writing the spec document:
 3. If loop exceeds 3 iterations, surface to human for guidance
 
 **User Review Gate:**
-After the spec review loop passes, ask the user to review the written spec before proceeding:
+After the spec review loop passes, ask the user to review the written spec before proceeding (on platforms with a user interaction tool like `askQuestions`, use it):
 
 > "Spec written and committed to `<path>`. Please review it and let me know if you want to make any changes before we start writing out the implementation plan."
 
