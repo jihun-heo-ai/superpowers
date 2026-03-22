@@ -79,7 +79,7 @@ GitHub Copilot discovers skills and plugins through:
 2. **Repository skills** — Skills in `.github/skills/` are discovered per-repository.
 3. **Custom instructions** — `.github/copilot-instructions.md` provides always-on guidance.
 
-Superpowers uses the plugin system to register all 14 skills. When Copilot encounters a task matching a skill's description, it loads and applies that skill automatically.
+Superpowers uses the plugin system to register all available skills. When Copilot encounters a task matching a skill's description, it loads and applies that skill automatically.
 
 ## Usage
 
@@ -240,7 +240,7 @@ GitHub Copilot은 다음을 통해 스킬과 플러그인을 발견합니다:
 2. **저장소 스킬** — `.github/skills/` 디렉토리의 스킬은 저장소별로 발견됩니다.
 3. **커스텀 지시사항** — `.github/copilot-instructions.md`는 항상 적용되는 가이드를 제공합니다.
 
-Superpowers는 플러그인 시스템을 통해 14개의 모든 스킬을 등록합니다. Copilot이 스킬의 설명과 일치하는 작업을 만나면, 해당 스킬을 자동으로 로드하고 적용합니다.
+Superpowers는 플러그인 시스템을 통해 모든 스킬을 등록합니다. Copilot이 스킬의 설명과 일치하는 작업을 만나면, 해당 스킬을 자동으로 로드하고 적용합니다.
 
 ## 사용법
 
