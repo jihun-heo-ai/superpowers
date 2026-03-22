@@ -24,7 +24,7 @@ Superpowers가 수익을 올리는 데 도움이 되었다면, [오픈소스 작
 
 ## 설치
 
-**참고:** 설치 방법은 플랫폼마다 다릅니다. Claude Code나 Cursor는 내장 플러그인 마켓플레이스를 가지고 있습니다. Codex와 OpenCode는 수동 설정이 필요합니다.
+**참고:** 설치 방법은 플랫폼마다 다릅니다. Claude Code, Cursor, GitHub Copilot은 내장 플러그인 마켓플레이스를 가지고 있습니다. Codex와 OpenCode는 수동 설정이 필요합니다.
 
 ### Claude Code 공식 마켓플레이스
 
@@ -79,6 +79,20 @@ Fetch and follow instructions from https://raw.githubusercontent.com/obra/superp
 ```
 
 **상세 문서:** [docs/README.opencode.md](docs/README.opencode.md)
+
+### GitHub Copilot / Copilot CLI
+
+```bash
+copilot plugin install obra/superpowers
+```
+
+업데이트:
+
+```bash
+copilot plugin update superpowers
+```
+
+**상세 문서:** [docs/README.copilot.md](docs/README.copilot.md)
 
 ### Gemini CLI
 
